@@ -1,0 +1,6 @@
+{
+  "name": "CodeArena: Programming Competition",
+  "description": "Interactive classroom programming competition platform with real-time sync between Classroom Display, Admin Dashboard, and Mobile Team Leader controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
